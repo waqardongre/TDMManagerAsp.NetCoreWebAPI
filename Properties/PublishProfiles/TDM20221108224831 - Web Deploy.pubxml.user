@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAaiz6p1yCUEWMQXX77s2o8AAAAAACAAAAAAAQZgAAAAEAACAAAABvgt+kdCgMYWzjDnIWCMmgmqLIHdZ6zCXG0ssdvIcCQQAAAAAOgAAAAAIAACAAAAA9Hnn10+8lvJgTO40Dr4OW9rzKwLa94FYRebWbs3rOt4AAAACdgqDySz3SdjnuS2xVWxw5IHIDAgDz8E/KDBdBCRpfnFXc5GXZEfg5Zir+J1aSWGi6lquDDdX2+DkeiT2MyIDwdd+mc7BoQYVOJ3qI2nx8b9Vo5W8ppY2RMOyU5DKvdNRFDp5yTusMABcasIbjfw1lXpsQ+L6OZqLlHpgG0I11M0AAAAC8tpzTNBHpM3M2bqHqQKDvuLOKh96mJ8dPs/90xPxZioCgRWQFf6OgXbDwpe+DWywtrc7Em0TrUNSoc2+SzEA+</EncryptedPassword>
+    <History>True|2022-11-09T10:48:36.4616776Z;True|2022-11-08T23:23:39.0454643+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SQLConStr">
+      <Value>Data Source=tcp:tdmodelsdbserver.database.windows.net,1433%3bInitial Catalog=tdmodelsdb%3bUser Id=tdmodelsmanager%40tdmodelsdbserver%3bPassword=12100%40tT</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
